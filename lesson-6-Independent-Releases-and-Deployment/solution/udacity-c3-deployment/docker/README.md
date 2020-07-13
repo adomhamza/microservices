@@ -13,4 +13,3 @@ You'll need to install docker https://docs.docker.com/install/. Open a new termi
 2. Push the images: `docker-compose -f docker-compose-build.yaml push`
 3. Run the container: `docker-compose up`
 
-/home/sleek/Desktop/microservices/lesson-6-Independent-Releases-and-Deployment/solution/udacity-c3-deployment/docker/docker-compose-build.yaml
